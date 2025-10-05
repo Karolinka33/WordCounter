@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string-array name="count_options">
+        <item>Chars</item>
+        <item>Words</item>
+        <item>Numbers</item>
+        <item>Sentence symbols</item>
+    </string-array>
+</resources>
